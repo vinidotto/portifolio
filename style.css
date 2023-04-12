@@ -158,8 +158,10 @@ body{
 }
 
 @media screen and (max-width: 768px) {
-    font-size: 0.6rem;
-    text-align: start;
+    .content_about{
+        font-size: 0.6rem;
+        text-align: start;
+    }
 }
 
 /* AQUI COMEÇA A PAG Curriculo */
