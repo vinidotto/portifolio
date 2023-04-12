@@ -155,7 +155,10 @@ body{
     justify-content: center;
     line-height: 1.8rem;
     width: 60%;
+}
 
+@media screen and (max-width: 768px) {
+    font-size: 0.4rem
 }
 
 /* AQUI COMEÇA A PAG Curriculo */
