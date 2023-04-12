@@ -103,6 +103,7 @@ body{
     .navigation_header{
         position: absolute;
         flex-direction: column !important;
+        text-align: center;
         top: 0;
         background-color: rgba(1, 74, 212, 1);
         height: 100%;
